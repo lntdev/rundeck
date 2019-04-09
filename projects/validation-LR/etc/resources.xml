@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="localhost" description="Rundeck server node" tags="" hostname="192.168.1.15" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="rundeck" sudo-command-enabled="true" sudo-password-option="option.sudoPassword2"/>
+  <node name="aster-desktop" description="Rundeck server node" tags="" hostname="192.168.1.21:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="begonia-desktop" description="Rundeck server node" tags="" hostname="192.168.1.22:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="cosmos-desktop" description="Rundeck server node" tags="" hostname="192.168.1.23:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="daisy-desktop" description="Rundeck server node" tags="" hostname="192.168.1.24:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+ <node name="eustoma-desktop" description="Rundeck server node" tags="" hostname="192.168.1.25:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="freesia-desktop" description="Rundeck server node" tags="" hostname="192.168.1.26:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="gaura-desktop" description="Rundeck server node" tags="" hostname="192.168.1.27:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="hibiscus-desktop" description="Rundeck server node" tags="" hostname="192.168.1.28:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="iris-desktop" description="Rundeck server node" tags="" hostname="192.168.1.29:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+  <node name="jasmine-desktop" description="Rundeck server node" tags="" hostname="192.168.1.30:60240" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="val"/>
+ <node name="rundeck-server" description="Rundeck server node" tags="" hostname="localhost" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="manu"/>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <node name="localhost" description="Rundeck server node" tags="" hostname="localhost" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.15.0-24-generic" username="rundeck"/>
+  <node name="rundeck-server" description="Rundeck server node" tags="" hostname="localhost" osArch="amd64" osFamily="unix" osName="Linux" osVersion="4.13.0-45-generic" username="manu" sudo-command-enabled="true" sudo-password-option="option.sudoPassword2"/>
+</project>
